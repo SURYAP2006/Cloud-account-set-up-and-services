@@ -1,10 +1,10 @@
-Ex.1 Cloud Account Setup and Services Overview in Microsoft Azure
+# Ex.1 Cloud Account Setup and Services Overview in Microsoft Azure
 
-Aim:
+## Aim:
 
 To create a cloud account in Microsoft Azure and to explore its services such as Compute, IoT, and Security.
 
-Procedure:
+## Procedure:
 
 Step 1: Go to the Azure Website
 
@@ -93,6 +93,6 @@ Snapshot 2: Services in Azure
 
 
 
-Result
+## Result
 Thus, a cloud account was successfully created in Microsoft Azure, and various services such as  Compute, IoT, and Security were explored.
 
